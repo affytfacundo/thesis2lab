@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "777618324212",
+    "firebase_url": "https://thesisdatabase-3503b.firebaseio.com",
+    "project_id": "thesisdatabase-3503b",
+    "storage_bucket": "thesisdatabase-3503b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777618324212:android:81e81bd1d5b2524275fca1",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "777618324212-qet9b9kia09lu14tk92rh3pblarmb6lf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMN82ttQcuGDAwUJybx3IOzTOU5vXQN3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "777618324212-qet9b9kia09lu14tk92rh3pblarmb6lf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
